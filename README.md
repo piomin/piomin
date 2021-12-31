@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 My name's Piotr Mińkowski 
 
-<!--
-**piomin/piomin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced Java Developer 🔹 Software Architect 🔹 Speaker and learner 🔹 YouTuber and blogger
 
-Here are some ideas to get you started:
+### 🛠 &nbsp;Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+## Find Me Around The Web 🌍
+
+- 🗣 [Blog](https://piotrminkowski.com)
+- 🔴 [YouTube](https://www.youtube.com/channel/UCAieNgran7umupT_D50KaGw)
+- 🐦 [Twitter](https://twitter.com/piotr_minkowski)
+- 🔗 [Linkedin](https://www.linkedin.com/in/piotrminkowski/)
+- 📫 [E-mail](mailto:piotr.minkowski@gmail.com)
