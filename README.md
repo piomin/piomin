@@ -1,6 +1,6 @@
 ### Hi there 👋 My name's Piotr Mińkowski 
 
-Experienced Java Developer 🔹 Software Architect 🔹 Speaker and learner 🔹 YouTuber and blogger
+Java Developer 🔹 Software Architect 🔹 Speaker and learner 🔹 YouTuber and blogger
 
 ### 🛠 &nbsp;Tech Stack
 
