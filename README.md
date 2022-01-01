@@ -15,3 +15,9 @@ Java Developer 🔹 Software Architect 🔹 Speaker and learner 🔹 YouTuber an
 - 🐦 [Twitter](https://twitter.com/piotr_minkowski)
 - 🔗 [Linkedin](https://www.linkedin.com/in/piotrminkowski/)
 - 📫 [E-mail](mailto:piotr.minkowski@gmail.com)
+
+## My GitHub Stats
+
+<a href="https://github.com/piomin">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=piomin&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="My github stats"/>
+</a>
