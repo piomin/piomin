@@ -9,6 +9,7 @@ Java Developer 🔹 Software Architect 🔹 Speaker and learner 🔹 YouTuber an
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 However, I'm also intensively exploring such topics like (among other things): \
+🔹 OpenShift \
 🔹 Apache Kafka \
 🔹 Knative \
 🔹 Quarkus
